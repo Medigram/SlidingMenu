@@ -15,4 +15,6 @@ gen
 .metadata
 *.project
 
-library/.classpath
+*.classpath
+*crashlytics_export_strings.xml
+*.gradle
